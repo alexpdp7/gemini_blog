@@ -1,0 +1,3 @@
+[submodule "bicephalus"]
+	path = bicephalus
+	url = https://github.com/alexpdp7/bicephalus.git

@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "gemini_blog"
+version = "0.1.0"
+description = ""
+authors = ["alex <alex@pdp7.net>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+bicephalus = {path = "./bicephalus", develop = true}
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+gemini_blog = 'gemini_blog:main'
