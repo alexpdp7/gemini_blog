@@ -1,3 +1,5 @@
+TRANSFERRED TO https://github.com/alexpdp7/alexpdp7/tree/master/blog
+
 # gemini_blog
 
 This repo contains my personal blog, hosted on Gemini.
